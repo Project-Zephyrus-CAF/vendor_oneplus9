@@ -98,5 +98,9 @@
     "com.twitter.android": {
         "previewSizeForAPI1Width": 1920,
         "previewSizeForAPI1Height": 1080
+    },
+    "com.taikang.tailife": {
+        "previewSizeForAPI1Width": 1920,
+        "previewSizeForAPI1Height": 1080
     }
 }
