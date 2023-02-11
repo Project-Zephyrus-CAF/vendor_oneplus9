@@ -1,16 +1,6 @@
 on init
     start vendor.keymaster-4-1
 
-<<<<<<< HEAD
-=======
-on property:vendor.keymaster.quickboot=true
-   stop vendor.keymaster-4-1
-   start vendor.keymaster-4-1
-   stop keystore
-   start keystore
-   start wait_for_keymaster
-
->>>>>>> 2b58dfc... oneplus9: Update to LAHAINA 20200 - QSSI 13.
 service vendor.keymaster-4-1 /vendor/bin/hw/android.hardware.keymaster@4.1-service-qti
     class early_hal
     user system
