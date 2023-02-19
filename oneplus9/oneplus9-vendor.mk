@@ -2066,7 +2066,7 @@ PRODUCT_PACKAGES += \
     manifest_android.hardware.drm@1.3-service.widevine \
     manifest_oplus_fingerprint \
     vendor.pixelworks.hardware.display.iris-service \
-    vendor.pixelworks.hardware.feature.irisfeature-service
+    vendor.pixelworks.hardware.feature.irisfeature-service \
     com.oplus.camera.unit.sdk.adapter \
     manifest_oplus_cammidasservice \
     com.oplus.camera.unit.sdk
